@@ -1,0 +1,44 @@
+.history-list-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  width: 95%;
+  margin-bottom: 10px;
+  margin-top: 10px;
+}
+
+.content-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.time-accessed {
+  color: #64748b;
+  font-family: Roboto;
+  font-size: 12px;
+  margin-right: 44px;
+}
+
+.logo-url {
+  width: 28px;
+  margin-right: 25px;
+}
+
+.title {
+  color: #475569;
+  font-family: Roboto;
+  font-size: 14px;
+  margin-right: 16px;
+}
+
+.domain-url {
+  color: #64748b;
+  font-family: Roboto;
+  font-size: 14px;
+}
+
+.delete-icon {
+  width: 20px;
+}
